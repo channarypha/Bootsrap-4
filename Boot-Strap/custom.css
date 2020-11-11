@@ -1,0 +1,7 @@
+.btn-teal {
+    background: teal;
+    color: #fff;
+}
+.btn-teal:hover {
+    color: #fff;
+}
